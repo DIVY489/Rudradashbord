@@ -1,0 +1,15 @@
+{
+	"name": "df-rudraazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49d3eec7-8de0-4c53-96a9-9b9ec5e37fb8",
+		"tenantId": "c980067a-a298-40f4-bdd6-8d26144415ef"
+	}
+}
